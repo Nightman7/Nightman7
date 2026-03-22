@@ -1,5 +1,5 @@
 ## Hi there 👋
-## [ nightman7 ] 👋
+## nightman7 here 👋
 
 - 🏗️ I’m currently working on **Fluent** — a Bitcoin-native media layer on Stacks.
 - 🌱 I’m currently learning **Clarity** and advanced **Data Science** applications.
